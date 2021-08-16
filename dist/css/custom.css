@@ -1,0 +1,178 @@
+.action-bar ul{
+	padding: 0;
+}
+.action-bar ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 2px;
+}
+.action-bar ul li .fa-edit{
+	color: #007bff;
+}
+.action-bar ul li .fa-trash{
+	color: #dc3545;
+	cursor: pointer;
+}
+.action-bar ul li .fa-eye{
+	color: #28a745;
+	cursor: pointer;
+}
+.asteric{
+	color: #dc3545;
+}
+.btn.btn-flat{
+	border-radius: 10px;
+    padding: 12px;
+    font-size: 18px;
+    margin: 12px 0;
+}
+.modal-body{
+	background: #1c1424;
+	color: #fff;
+}
+.modal-body ul{
+	padding: 0;
+}
+.modal-body ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 10px;
+}
+.modal-body h3{
+	font-size: 26px;
+    padding: 12px 0 18px 0;
+    font-weight: 600;
+}
+.modal-body ul li .btn-danger{
+	padding: 10px 20px;
+}
+.modal-body ul li .btn-primary{
+	padding: 10px 20px;
+}
+.user-avater{
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+}
+.modal-profile{
+	background: #fff;
+}
+.user-profile-avater{
+	height: 160px;
+	width: 160px;
+	border-radius: 50%;
+	display: block;
+	margin: 20px auto 45px;	
+}
+.user-name{
+	font-size: 34px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 26px;
+    font-weight: 700;
+}
+.user-address{
+	font-size: 20px;
+	text-align: center;
+	color: #000;
+}
+.modal-table td,
+.modal-table th{
+	color: #000;
+	font-size: 18px;
+}
+.ok-btn{
+	margin: 15px 0;
+	float: right;
+}
+.user-profile-update{
+	height: 75px;
+	width: 75px;
+}
+.user-panel img{
+	height: auto;
+    width: 3.8rem;
+}
+.sidebar a{ 
+    margin-top: 7px;
+    font-size: 18px;      
+}
+.nav-item .my-nav{
+	margin: 0 15px;
+}
+.footer{
+	padding: 50px 0;
+}
+.s-box{
+	background: #212529;
+	padding: 10px 1px;
+	float: right;
+	margin-bottom: 20px;
+}
+.form-inline{
+	float: right;
+}
+.fa-search{
+	color: #fff;
+}
+.fa-fw{
+	color: #fff;
+}
+.search-box{
+	margin: 20px 0;
+	background: #1c1424;
+	padding: 15px 10px;
+	text-align: left;
+}
+.s-form{
+	padding: 10px 0;
+}
+.search-box .fa-search{
+	color: #000;
+}
+.search-box input{
+	width: 80%;
+	display: inline;
+}
+.b-btn{
+	margin: 20px 0;
+	text-align: center;
+}
+.uname1{
+	margin-bottom: 8px;
+}
+.fa-times{
+	color: red;
+}
+.a-box{
+	background: #1c1424;
+	color: #fff;
+	font-size: 20px;
+}
+.slider{
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+.slider-box{
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	display: block;
+}
+.slider-box img{
+	width: 600px;
+	height: 400px;
+	display: block;
+}
+.btn-box{
+	display: block;
+	margin: 50px 420px;
+}
+.btn-next{
+	background: #1c1424;
+	color: #fff;
+	border: none;
+	margin: 10px 8px;
+	font-size: 20px;
+}
